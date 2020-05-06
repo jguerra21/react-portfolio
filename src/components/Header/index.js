@@ -9,7 +9,7 @@ function Header() {
       <div className="container">
         <div className="row m-0 w-100 align-items-center">
           <div className="col-md-5 col-12 p-0">
-            <span className="navbar-brand mb-0 h1 m-0">Kyle Jones</span>
+            <span className="navbar-brand mb-0 h1 m-0">Jolie Guerra</span>
           </div>
           <div className="col-md-4 col-12 ml-auto p-0">
             <div
