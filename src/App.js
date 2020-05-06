@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Footer from "./components/Footer";
+import  "./App.css";
 import "./";
 
 const App = () => {
@@ -15,17 +16,17 @@ const App = () => {
         <div className="container">
           <Route 
             exact
-            path="/react-portfolio/"
+            path="/"
             component={About} 
           />
           <Route
             exact
-            path="/react-portfolio/contact"
+            path="/contact"
             component={Contact}
           />
           <Route
             exact
-            path="/react-portfolio/portfolio"
+            path="/portfolio"
             component={Portfolio}
           />
         </div>

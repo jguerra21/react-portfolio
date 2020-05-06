@@ -12,7 +12,7 @@ function Contact() {
           className="nameinput w-100 my-1"
           type="text"
           name="FullName"
-          placeholder="Jolie Guerra"
+          placeholder=""
         />
         
         <br />
@@ -42,7 +42,10 @@ function Contact() {
         <input id="submitbutton" type="submit" name="Submit" />
       </div>
     </div>
+    
+
   )
 }
+
 
 export default Contact;

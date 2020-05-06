@@ -1,14 +1,16 @@
 import React from "react";
 
 function Project(props) {
+  const { image, name, site, github } = props;
+
   return (
     <div className="col-md-6 col-12">
       <div className="card">
-        <img className="card-img-top" src={props.image} alt={props.name} />
+        <img className="card-img-top" src={image} alt={name} />
         <div className="card-body">
-          <h5 className="card-title">{props.name}</h5>
+          <h5 className="card-title">{name}</h5>
           <a
-            href={props.site}
+            href={site}
             rel="noopener noreferrer"
             target="_blank"
             className="card-link"
@@ -16,7 +18,7 @@ function Project(props) {
             Go To App
           </a>
           <a
-            href={props.github}
+            href={github}
             rel="noopener noreferrer"
             target="_blank"
             className="card-link"

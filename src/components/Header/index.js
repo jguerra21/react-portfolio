@@ -19,9 +19,11 @@ function Header() {
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <Link
-                    to="/react-portfolio/"
+                    to="/"
                     className={
-                      location.pathname === "/" ? "nav-link active" : "nav-link"
+                      location.pathname === "/about"
+                        ? "nav-link active"
+                        : "nav-link"
                     }
                   >
                     About
@@ -29,7 +31,7 @@ function Header() {
                 </li>
                 <li className="nav-item">
                   <Link
-                    to="/react-portfolio/portfolio"
+                    to="/portfolio"
                     className={
                       location.pathname === "/portfolio"
                         ? "nav-link active"
@@ -41,7 +43,7 @@ function Header() {
                 </li>
                 <li className="nav-item">
                   <Link
-                    to="/react-portfolio/contact"
+                    to="/contact"
                     className={
                       location.pathname === "/contact"
                         ? "nav-link active"
