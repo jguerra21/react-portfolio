@@ -5,8 +5,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Footer from "./components/Footer";
-import  "./App.css";
-import "./";
+import './App.css';
 
 const App = () => {
   return (
