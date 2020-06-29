@@ -1,4 +1,4 @@
-# Unit 20 React Homework: React Portfolio
+# Jolie Guerra Portfolio - A Node,Express,React App
 
 Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a variety of programming languages, which i use to create unique and intuitive web applications. 
 
