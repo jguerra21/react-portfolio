@@ -22,12 +22,5 @@ Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a varie
 
 * Node.js
 
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portoflio      | 90%    |
-| GitHub Profile | 10%    |
-
 
 ## Preview
