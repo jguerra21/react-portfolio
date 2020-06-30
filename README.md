@@ -2,6 +2,18 @@
 
 Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a variety of programming languages, which i use to create unique and intuitive web applications. 
 
+## Table of Contents
+* [Deployed Application](#deployed-application)
+
+* [Technologies Used](#technologies-used)
+
+* [Installation](#installation)
+
+* [Preview](#preview)
+
+* [Questions](#questions)
+
+
 
 ## Deployed Application
 * [Github Repo](https://github.com/jguerra21/react-portfolio)
@@ -23,10 +35,14 @@ Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a varie
 * Node.js
 
 ## Installation
-
-
+```
+npm install
+```
 
 ## Preview
 ![](/src/assets/images/image-1.jpeg)
 ![](/src/assets/images/image-2.jpeg)
 ![](/src/assets/images/image-3.jpeg)
+
+## Questions
+If you have any questions, please contact me at jolie_guerra@yahoo.com
