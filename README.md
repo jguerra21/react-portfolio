@@ -22,6 +22,9 @@ Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a varie
 
 * Node.js
 
+## Installation
+
+
 
 ## Preview
 ![](/src/assets/images/image-1.jpeg)
