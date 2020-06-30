@@ -41,8 +41,6 @@ npm install
 
 ## Preview
 ![](/src/assets/images/image-1.jpeg)
-![](/src/assets/images/image-2.jpeg)
-![](/src/assets/images/image-3.jpeg)
 
 ## Questions
 If you have any questions, please contact me at jolie_guerra@yahoo.com
