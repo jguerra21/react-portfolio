@@ -24,3 +24,6 @@ Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a varie
 
 
 ## Preview
+![](/src/assets/images/image-1.jpeg)
+![](/src/assets/images/image-2.jpeg)
+![](/src/assets/images/image-3.jpeg)
