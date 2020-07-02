@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9a78cee5.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.de106708.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.de106708.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.2a528c80.chunk.js": "/react-portfolio/static/js/2.2a528c80.chunk.js",
+    "static/js/2.2a528c80.chunk.js.map": "/react-portfolio/static/js/2.2a528c80.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.2f05f8cc5538fc320352278f326870be.js": "/react-portfolio/precache-manifest.2f05f8cc5538fc320352278f326870be.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.9a78cee5.chunk.css.map": "/react-portfolio/static/css/main.9a78cee5.chunk.css.map",
+    "static/js/2.2a528c80.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2a528c80.chunk.js.LICENSE.txt",
+    "static/media/BudgetTracker.jpeg": "/react-portfolio/static/media/BudgetTracker.c9aad77f.jpeg",
+    "static/media/EatDaBurgerScreenshot.jpeg": "/react-portfolio/static/media/EatDaBurgerScreenshot.fae06be9.jpeg",
+    "static/media/FitnessTracker.jpeg": "/react-portfolio/static/media/FitnessTracker.00757915.jpeg",
+    "static/media/NoteTaker.jpeg": "/react-portfolio/static/media/NoteTaker.db6a3126.jpeg",
+    "static/media/Project-2.jpeg": "/react-portfolio/static/media/Project-2.7e357e21.jpeg",
+    "static/media/Project2.jpeg": "/react-portfolio/static/media/Project2.fd2ae8ec.jpeg",
+    "static/media/main1.jpeg": "/react-portfolio/static/media/main1.b81c592c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.2a528c80.chunk.js",
+    "static/css/main.9a78cee5.chunk.css",
+    "static/js/main.de106708.chunk.js"
+  ]
+}
