@@ -55,7 +55,7 @@ function Header() {
                 </li>
                 <li className="nav-item">
                   <a
-                    href="https://docs.google.com/document/d/1BIYJ2nDxatxf_dNa9w9T-OOjVXAnkFqZ4mELmQ1qIsA/edit?usp=sharing"
+                    href="https://drive.google.com/file/d/1obzMyWZVDkjQV4kP0sJoouKg79JQnkjZ/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="nav-link"
