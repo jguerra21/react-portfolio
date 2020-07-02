@@ -17,7 +17,7 @@ Hello! I'm Jolie, a Full-Stack Developer based in Smyrna,GA. I have used a varie
 
 ## Links
 * [Github Repository](https://github.com/jguerra21/react-portfolio)
-* [Github Hosted Page](https://jguerra21.github.io/)
+* [Github Hosted Page](https://jguerra21.github.io/react-portfolio/)
 
 ## Technologies Used:
 
